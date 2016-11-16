@@ -1,14 +1,16 @@
-* [Keep notes](#keep-notes)   
-         * [Sample](#sample)   
-                 * [C](#c)   
-                 * [Git](#git)   
-                 * [Java](#java)   
-         * [TODO List](#todo-list)   
-         * [License](#license)   
-         * [Contact](#contact)   
+
+* [Keep Notes](#keep-notes)   
+     * [Sample](#sample)   
+         * [C](#c)   
+            * [Git](#git)   
+            * [Java](#java)   
+    * [TODO List](#todo-list)   
+    * [License](#license)   
+    * [Contact](#contact)   
 
 ------
-# Keep notes
+# Keep Notes
+
 ```sh
             _._ __
             | |/ /
@@ -16,4 +18,4 @@
             | | \
             |_|\_\
 ```
-[![Author](https://img.shields.io/bage/author-strawberrylin-lightgrey.svg)](https://github.com/strawberrylin)
+[![Author](https://img.shields.io/bage/author-sabertazimi-lightgrey.svg)](https://github.com/strawberrylin)
