@@ -18,4 +18,6 @@
             | | \
             |_|\_\
 ```
-[![Author](https://img.shields.io/bage/author-sabertazimi-lightgrey.svg)](https://github.com/strawberrylin)
+
+[![Author](https://img.shields.io/badeg/author-strawberrylin-green)](https://github.com/strawberrylin)
+
