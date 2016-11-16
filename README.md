@@ -1,5 +1,6 @@
 * [Keep notes](#keep-notes)
          * [Sample](#sample)
+         * [Sample](#sample)
              * [C](#c)
              * [Git](#git)
              * [Java](#java)
