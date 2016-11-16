@@ -19,5 +19,5 @@
             |_|\_\
 ```
 
-[![Author](https://img.shields.io/badge/author-strawberrylin-green.svg)](https://github.com/strawberrylin)
+[![Author](https://img.shields.io/badge/author-strawberrylin-brightgreen.svg)](https://github.com/strawberrylin)
 [![MIT](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/strawberrylin/Keepnotes/blob/master/LICENSE)
