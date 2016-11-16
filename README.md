@@ -1,12 +1,11 @@
-* [Keep notes](#keep-notes)
-         * [Sample](#sample)
-         * [Sample](#sample)
-             * [C](#c)
-             * [Git](#git)
-             * [Java](#java)
-         * [TODO List](#todo-list)
-         * [License](#license)
-         * [Contact](#contact)
+* [Keep notes](#keep-notes)   
+         * [Sample](#sample)   
+             * [C](#c)   
+             * [Git](#git)   
+             * [Java](#java)   
+         * [TODO List](#todo-list)   
+         * [License](#license)   
+         * [Contact](#contact)   
 
 ------
 # Keep notes
