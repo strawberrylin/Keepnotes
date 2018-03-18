@@ -30,6 +30,10 @@
 
 ###Java
 
+卸载IDEA:
+    * Delete the installtion directory.
+    * Delete the "config" and "system" configuration directiories.These file exist in /home/user/.<PRODUCT><VERSION>
+
 ##TODO-List
 
 ##License
